@@ -1,6 +1,6 @@
 diffusers
 transformers
--U peft transformers
+peft
 accelerate
 git+https://github.com/huggingface/diffusers
 opencv-python
