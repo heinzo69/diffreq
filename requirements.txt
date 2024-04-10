@@ -1,6 +1,5 @@
---extra-index-url https://download.pytorch.org/whl/cu118
-
-diffusers["torch"] transformers
+diffusers["torch"]
+transformers
 -U peft transformers
 accelerate
 git+https://github.com/huggingface/diffusers
